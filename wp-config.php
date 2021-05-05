@@ -20,16 +20,16 @@
 
 // ** Impostazioni MySQL - È possibile ottenere queste informazioni dal proprio fornitore di hosting ** //
 /** Il nome del database di WordPress */
-define('DB_NAME', 'nome_del_database_qui');
+define('DB_NAME', 'wordpress');
 
 /** Nome utente del database MySQL */
-define('DB_USER', 'nome_utente_qui');
+define('DB_USER', 'amministratore');
 
 /** Password del database MySQL */
-define('DB_PASSWORD', 'password_qui');
+define('DB_PASSWORD', 'Server1!');
 
 /** Hostname MySQL  */
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'nomeserver.database.windows.net');
 
 /** Charset del Database da utilizzare nella creazione delle tabelle. */
 define('DB_CHARSET', 'utf8');
